@@ -74,6 +74,8 @@ let x = lim (F(n)/F(n-1), n->INF)
 
 ### Stirling's Approximation
 
+More [here](http://en.wikipedia.org/wiki/Stirling's_approximation)
+
 ## Analysis of Algorithms
 
 - let n = size of data
